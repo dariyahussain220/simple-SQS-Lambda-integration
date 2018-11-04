@@ -1,0 +1,1 @@
+# simple-SQS-Lambda-integration
